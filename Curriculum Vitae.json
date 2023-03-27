@@ -1,0 +1,39 @@
+{
+  "nombre": "Juan Perez",
+  "edad": 30,
+  "profesion": "Ingeniero en Sistemas",
+  "experiencia_laboral": [
+    {
+      "empresa": "ABC Corp",
+      "puesto": "Desarrollador de Software",
+      "periodo": "2016-2018",
+      "responsabilidades": [
+        "Desarrollo de aplicaciones web",
+        "Mantenimiento de aplicaciones existentes",
+        "Resolución de problemas"
+      ]
+    },
+    {
+      "empresa": "XYZ Inc",
+      "puesto": "Arquitecto de Software",
+      "periodo": "2018-2020",
+      "responsabilidades": [
+        "Diseño y desarrollo de arquitecturas de software",
+        "Gestión de proyectos",
+        "Evaluación de nuevas tecnologías"
+      ]
+    }
+  ],
+  "educacion": [
+    {
+      "institucion": "Universidad Nacional",
+      "titulo": "Ingeniero en Sistemas",
+      "periodo": "2010-2015"
+    },
+    {
+      "institucion": "Universidad de California",
+      "titulo": "Maestría en Ciencias de la Computación",
+      "periodo": "2015-2017"
+    }
+  ]
+}
